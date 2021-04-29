@@ -14,7 +14,7 @@ O Shopping Cart também é disponibilizado pelo Service Discovery e aguarda ser 
 
 O Gateway distribui as solicitações para o micro um serviço específico responsável recebendo as requisições e disponibiliza as respostas pela porta 8080.
 
-##### Arquitetura básica de microserviços
+##### Arquitetura básica de microsserviços
 
 - Config Server: Consumindo as configurações do repositório no git e disponibilizando para os módulos.
 - Service Discory: Criado pelo Eureka Integrando os serviços e disponibilizando para as aplicações.
