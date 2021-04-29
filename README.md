@@ -22,7 +22,7 @@ O Gateway distribui as solicitações para o micro um serviço específico respo
 - Shopping Cart: Módulo desenvolvido utilizando Redis.
 - Gateway: Módulo responsável pelas rotas
 
-![image-20210429031604514](img\image-20210429031604514.png)
+![image-20210429031604514](img/image-20210429031604514.png)
 
 ---
 
